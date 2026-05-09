@@ -20,7 +20,6 @@ export const Logo: React.FC<LogoProps> = ({
       )}
     >
       <div className="relative flex items-center justify-center">
-        {/* Logo Image */}
         <img
           src="assets/images/Logo/riths-logo.jpeg"
           alt="RITHS Events Logo"
